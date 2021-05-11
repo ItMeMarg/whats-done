@@ -26,22 +26,23 @@ Icons are used to convey intuitive site navigation, including ➕ for adding new
 Users will search icons through [icon8’s API](https://developers.icons8.com/docs/searchIcons#get-api-iconsets-v5-search) to customize their tracked habit labels. 
 
 #### Colors
+![Fashion Color Palette](https://github.com/ItMeMarg/whats-done/blob/main/wireframe/colors_fashion.png?raw=true)
+![Classic Color Palette](https://github.com/ItMeMarg/whats-done/blob/main/wireframe/colors_classic.png?raw=true)
 In offering two color schemes, I referenced a list of 2021 Colors of The Year featured by [W3Schools](w3schools.com/w3css/w3css_color_fashion.asp). The 15 colors listed were a bit much, so I minimized the list to four, offering a dark and a light mode. 
-
 ##### Dark Mode
-![Dark mode color template](#)
+![Dark mode color template](https://github.com/ItMeMarg/whats-done/blob/main/wireframe/dark_mode.png?raw=true)
 *Inkwell* HEX #363945: site’s background
 *French Blue* HEX#0072B5: interactive feature color
 *Buttercream* #EFE1CE: contrasting color
 
 ##### Light Mode
-![Light mode color template](#)
+![Light mode color template](https://github.com/ItMeMarg/whats-done/blob/main/wireframe/light_mode.png?raw=true)
 *Buttercream* #EFE1CE: site’s background
 *French Blue* HEX#0072B5: interactive feature color
 *Inkwell* HEX #363945: contrasting color
 
 ## Wireframes
-Before putting code to IDE, I used [Justinmind](https://www.justinmind.com/prototyping-tool) to create examples of features on [mobile](#), [tablet](#), and [desktop](#).
+Before putting code to IDE, I used [Justinmind](https://www.justinmind.com/prototyping-tool) to create examples of features on [mobile](/workspace/whats-done/wireframe/mobile), [tablet](/workspace/whats-done/wireframe/tablet), and [desktop](/workspace/whats-done/wireframe/desktop).
 
 ## Features
 ### Existing Features
