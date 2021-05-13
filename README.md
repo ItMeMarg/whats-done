@@ -14,16 +14,14 @@ As a user, I expect to easily reference my entered data.
 Ensure the site is designed to be navigated and manipulated intuitively. 
 Ensure user data is saved and available. 
 Ensure the site can be accessed across devices. 
-Ensure users have a variety of customization available, from icon access for labeling habits to choice of color theme. 
+Ensure users have a variety of customization available, from access to labeling habit icons to choice of color theme. 
 
 ### Design Choices
 #### Fonts
 One font, [Oxygen](https://fonts.google.com/specimen/Oxygen), is used in varying weights as needed.  
 
 #### Icons
-Icons are used to convey intuitive site navigation, including ➕ for adding new categories and 👤 for account access. 
-
-Users will search icons through [icon8’s API](https://developers.icons8.com/docs/searchIcons#get-api-iconsets-v5-search) to customize their tracked habit labels. 
+Icons are used to convey intuitive site navigation, including ➕ for adding new categories and 👤 for account access.  
 
 #### Colors
 ![Fashion Color Palette](https://github.com/ItMeMarg/whats-done/blob/main/wireframe/colors_fashion.png?raw=true)
