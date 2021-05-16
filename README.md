@@ -38,7 +38,7 @@ In offering two color schemes, I referenced a list of 2021 Colors of The Year fe
 ![Light mode color template](https://github.com/ItMeMarg/whats-done/blob/main/wireframe/light_mode.png?raw=true)
 ##### Light Mode
 * *Buttercream* #EFE1CE: site’s background
-* *French Blue* HEX#0072B5: interactive feature color
+* *Marigold* HEX#FDAC53: interactive feature color
 * *Inkwell* HEX #363945: contrasting color
 
 ## Wireframes
